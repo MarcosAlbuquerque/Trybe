@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+PHP
+C++
+JavaScript
+html
+mySql
