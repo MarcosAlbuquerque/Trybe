@@ -4,7 +4,7 @@ Este repositório conterá todos projetos que criarei ao longo de todo curso.
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [X] _[Projeto - HTML & CSS]()_
+- [X] _[Projeto - Lessons Learned](sd-09-project-lessons-learned)
 - [X] _[Projeto - Playground Functions]()_
 - [X] _[Projeto - Arte com Pixels]()_
 - [X] _[Projeto - Lista de tarefas](sd-09-project-todo-list)_
