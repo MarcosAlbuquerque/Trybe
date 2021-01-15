@@ -8,7 +8,7 @@ Este repositório conterá todos projetos que criarei ao longo de todo curso.
 - [X] _[Projeto - Playground Functions](sd-09-project-playground-functions)_
 - [X] _[Projeto - Arte com Pixels](sd-09-project-pixels-art)_
 - [X] _[Projeto - Lista de tarefas](sd-09-project-todo-list)_
-- [X] _[Projeto - Página inicial do Facebook](sd-09-project-facebook-signup)_
+- [X] _[Projeto em Dupla - Página inicial do Facebook](sd-09-project-facebook-signup)_
 - [ ] _[Projeto - JavaScript Testes Unitários]()_
 - [ ] _[Projeto - Zoo functions]()_
 - [ ] _[Projeto - Carrinho de Compras]()_
