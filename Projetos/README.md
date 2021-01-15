@@ -7,7 +7,7 @@ Este repositório conterá todos projetos que criarei ao longo de todo curso.
 - [X] _[Projeto - HTML & CSS]()_
 - [X] _[Projeto - Playground Functions]()_
 - [X] _[Projeto - Arte com Pixels]()_
-- [X] _[Projeto - Lista de tarefas]()_
+- [X] _[Projeto - Lista de tarefas](sd-09-project-todo-list)_
 - [X] _[Projeto - Página inicial do Facebook]()_
 - [ ] _[Projeto - JavaScript Testes Unitários]()_
 - [ ] _[Projeto - Zoo functions]()_
