@@ -1,0 +1,4 @@
+[submodule "Projetos/sd-09-project-lessons-learned"]
+	path = Projetos/sd-09-project-lessons-learned
+	url = git@github.com:tryber/sd-09-project-lessons-learned.git
+	branch = MarcosAlbuquerque-lessons-learned-project
