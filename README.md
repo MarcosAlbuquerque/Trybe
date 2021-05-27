@@ -42,11 +42,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto Bônus - Meme Generator]()_ (opcional)
+- [ ] 5-5: _[Projeto Bônus - Meme Generator]()_
 - [X] 5-6: _[Projeto - Arte com Pixels]()_
 - [X] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_ (opcional)
-- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_ (opcional)
+- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -113,9 +113,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 15: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [X] 15-1: _Testando React com a React Testing Library_
+- [X] 15-2: _Testando React com a React Testing Library - Parte 2_
+- [X] 15-3: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Introdução ao Redux
 

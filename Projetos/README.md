@@ -8,23 +8,23 @@ Este repositório conterá todos projetos que criarei ao longo de todo curso.
 - [X] _[Projeto - Playground Functions](sd-09-project-playground-functions)_
 - [X] _[Projeto - Arte com Pixels](sd-09-project-pixels-art)_
 - [X] _[Projeto - Lista de tarefas](sd-09-project-todo-list)_
-- [X] _[Projeto em Dupla - Página inicial do Facebook](sd-09-project-facebook-signup)_
-- [ ] _[Projeto - JavaScript Testes Unitários]()_
-- [ ] _[Projeto - Zoo functions]()_
-- [ ] _[Projeto - Carrinho de Compras]()_
-- [ ] _[Projeto - Jest Assíncrono e Mocking]()_
+- [X] _[Projeto - Página inicial do Facebook](sd-09-project-facebook-signup)_
+- [X] _[Projeto - JavaScript Testes Unitários]()_
+- [X] _[Projeto - Zoo functions]()_
+- [X] _[Projeto - Carrinho de Compras]()_
+- [X] _[Projeto - Jest Assíncrono e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-- [ ] _[Projeto - Movie Cards Library]()_
-- [ ] _[Projeto - Movie Cards Library Stateful]()_
-- [ ] _[Projeto - Movie Cards Library CRUD]()_
-- [ ] _[Projeto - Frontend Online Store]()_
-- [ ] _[Projeto - Testes em React]()_
+- [X] _[Projeto - Movie Cards Library]()_
+- [X] _[Projeto - Movie Cards Library Stateful]()_
+- [X] _[Projeto - Movie Cards Library CRUD]()_
+- [X] _[Projeto - Frontend Online Store]()_
+- [X] _[Projeto - Testes em React]()_
 - [ ] _[Projeto - Tabela com filtros de dados]()_
 - [ ] _[Projeto - Jogo de Trivia]()_
 - [ ] _[Projeto - StarWars Datatable com Context API e Hooks]()_
-- [ ] _[Projeto - App de Receitas]()_
+- [X] _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
